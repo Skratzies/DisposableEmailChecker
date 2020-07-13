@@ -183,7 +183,7 @@
     "C:\\Users\\Abdulrahman Azmy\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "restore": {
       "projectUniqueName": "C:\\Projects\\DisposableEmailChecker\\DisposableEmailChecker\\DisposableEmailChecker.csproj",
       "projectName": "Skratzies.DisposableEmailChecker",

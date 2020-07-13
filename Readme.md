@@ -10,7 +10,21 @@ Use Nuget to install this library
 ## Usage
 
 ```c#
-IsDisposableEmail('test@getnada.com') // true
+using System;
+using EmailValidator;
+
+namespace App
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            bool Checker = DisposableMails.IsDisposableEmail("test@Getnada.com"); //true
+            Console.WriteLine(Checker);
+        }
+    }
+}
+
 ```
 
 ## Contributing
