@@ -2,6 +2,24 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Skratzies.DisposableEmailChecker</PackageId>
+    <Authors>Abdulrahman Azmy, Mustafa Azmy</Authors>
+    <Company>Abdulrahman Azmy, Mustafa Azmy</Company>
+    <Product>Skratzies.DisposableEmailChecker</Product>
+    <Description>a handy package to check if the email is Disposable.</Description>
+    <PackageProjectUrl>https://github.com/Skratzies/DisposableEmailChecker</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Skratzies/DisposableEmailChecker</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageIcon>unnamed.png</PackageIcon>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Users\Abdulrahman Azmy\Desktop\unnamed.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
