@@ -4,7 +4,10 @@ Disposable Email Checker is a C# library for checking the disposable email.
 
 ## Installation
 
-Use Nuget to install this library
+Use Nuget to install this library (https://www.nuget.org/packages/Skratzies.DisposableEmailChecker/1.0.2#)
+```
+Install-Package Skratzies.DisposableEmailChecker -Version 1.0.2
+```
 
 
 ## Usage
